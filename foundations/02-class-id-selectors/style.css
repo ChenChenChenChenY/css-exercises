@@ -1,0 +1,19 @@
+.odd {
+    background-color: pink;
+    font-family: "Verdana","DejaVu Sans","sans-serif" ;
+}
+
+#id2 {
+    color: rgb(16, 16, 239);
+    font-size: 36px;
+}
+
+.class3 {
+    font-size: 24px;
+}
+
+#id4 {
+    background-color: rgb(143, 212, 143);
+    font-size: 24px;
+    font-weight: bold;
+}
